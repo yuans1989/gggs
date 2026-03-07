@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,registry.npmjs.org
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,lastpass.com
-  - DOMAIN-SUFFIX,app.5ddd.com
   - DOMAIN-SUFFIX,tv.emby.media
   # ==============================================
   # 内网私有IP段（核心！解决 192.168.x.x 走代理）
