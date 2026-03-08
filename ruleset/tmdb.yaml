@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,api.themoviedb.org       # API接口 
   - DOMAIN-SUFFIX,image.tmdb.org           # 图片服务器 
   - DOMAIN-SUFFIX,www.themoviedb.org       # 网站首页
+  - DOMAIN-SUFFIX,media.themoviedb.org # 开发者文档
   - DOMAIN-SUFFIX,developer.themoviedb.org # 开发者文档
   - DOMAIN-SUFFIX,assets.themoviedb.org    # 静态资源
   - DOMAIN-SUFFIX,files.tmdb.org           # 文件资源
