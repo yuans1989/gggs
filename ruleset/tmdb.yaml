@@ -1,0 +1,83 @@
+# 刮削器数据源域名列表（已移除国内网站）
+# 包含电影、电视剧、动漫等多类型媒体元数据来源
+
+# 一、影视综合类 (优先级最高，覆盖最广)
+payload:
+  # The Movie Database (TMDb) - 全球最通用的影视数据库，免费且覆盖广
+  - DOMAIN-SUFFIX,themoviedb.org          # 主站 
+  - DOMAIN-SUFFIX,tmdb.org                 # 短域名 
+  - DOMAIN-SUFFIX,api.themoviedb.org       # API接口 
+  - DOMAIN-SUFFIX,image.tmdb.org           # 图片服务器 
+  - DOMAIN-SUFFIX,www.themoviedb.org       # 网站首页
+  - DOMAIN-SUFFIX,developer.themoviedb.org # 开发者文档
+  - DOMAIN-SUFFIX,assets.themoviedb.org    # 静态资源
+  - DOMAIN-SUFFIX,files.tmdb.org           # 文件资源
+
+  # TheTVDB - 欧美剧集专业数据库，老剧信息详细 
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,api.thetvdb.com          # API接口
+
+# 二、动漫动画类 (日本动画专用)
+  # AniDB - 专业动漫数据库 
+  - DOMAIN-SUFFIX,anidb.net
+  - DOMAIN-SUFFIX,anidb.info
+  
+  # MyAnimeList - 主流动漫社区数据库
+  - DOMAIN-SUFFIX,myanimelist.net
+  
+  # AniList - 现代化动漫追踪平台
+  - DOMAIN-SUFFIX,anilist.co
+  
+  # Shoko / Hama 相关域名 
+  - DOMAIN-SUFFIX,shokoanime.com
+
+# 三、综合元数据补充源
+  # IMDb - 最权威的影视数据库 
+  - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,imdb-api.com
+  
+  # Rotten Tomatoes - 影评与评分
+  - DOMAIN-SUFFIX,rottentomatoes.com
+  
+  # Metacritic - 评分聚合
+  - DOMAIN-SUFFIX,metacritic.com
+  
+  # Trakt - 影视进度追踪
+  - DOMAIN-SUFFIX,trakt.tv
+  - DOMAIN-SUFFIX,api.trakt.tv
+
+# 四、音乐与MV刮削源
+  # MusicBrainz - 开源音乐数据库
+  - DOMAIN-SUFFIX,musicbrainz.org
+  - DOMAIN-SUFFIX,metabrainz.org
+  
+  # Discogs - 唱片数据库
+  - DOMAIN-SUFFIX,discogs.com
+  
+  # Last.fm - 音乐元数据
+  - DOMAIN-SUFFIX,last.fm
+  - DOMAIN-SUFFIX,audioscrobbler.com
+
+# 五、游戏刮削源
+  # IGDB - 互联网游戏数据库
+  - DOMAIN-SUFFIX,igdb.com
+  - DOMAIN-SUFFIX,api.igdb.com
+  
+  # Steam - 游戏平台数据
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstatic.com
+
+# 六、图片与封面资源
+  - DOMAIN-SUFFIX,fanart.tv           # 影视同人艺术作品
+  - DOMAIN-SUFFIX,theposterdb.com      # 海报数据库
+  - DOMAIN-SUFFIX,omdbapi.com          # 电影数据API
+  - DOMAIN-SUFFIX,theopenmoviedb.org   # 开放电影数据库
+
+# 七、其他补充刮削源 
+  # 维基百科 - 演员信息等 
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  
+  # 通用知识库
+  - DOMAIN-SUFFIX,dbpedia.org
+  - DOMAIN-SUFFIX,geonames.org
