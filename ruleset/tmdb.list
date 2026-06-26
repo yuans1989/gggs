@@ -1,0 +1,46 @@
+# NAME: 刮削器数据源（影视/动漫/音乐/游戏等）
+# AUTHOR: 用户自定义
+# REPO: https://github.com/your-repo (可选)
+# UPDATED: 2026-06-26 14:30:00
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 39
+# TOTAL: 39
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,www.themoviedb.org
+DOMAIN-SUFFIX,media.themoviedb.org
+DOMAIN-SUFFIX,developer.themoviedb.org
+DOMAIN-SUFFIX,assets.themoviedb.org
+DOMAIN-SUFFIX,files.tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,anidb.net
+DOMAIN-SUFFIX,anidb.info
+DOMAIN-SUFFIX,myanimelist.net
+DOMAIN-SUFFIX,anilist.co
+DOMAIN-SUFFIX,shokoanime.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb-api.com
+DOMAIN-SUFFIX,rottentomatoes.com
+DOMAIN-SUFFIX,metacritic.com
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,api.trakt.tv
+DOMAIN-SUFFIX,musicbrainz.org
+DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,discogs.com
+DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,audioscrobbler.com
+DOMAIN-SUFFIX,igdb.com
+DOMAIN-SUFFIX,api.igdb.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,theposterdb.com
+DOMAIN-SUFFIX,omdbapi.com
+DOMAIN-SUFFIX,theopenmoviedb.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,dbpedia.org
+DOMAIN-SUFFIX,geonames.org
