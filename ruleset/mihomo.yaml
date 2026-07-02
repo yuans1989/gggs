@@ -337,24 +337,3 @@ rule-providers:
   China / IP: {<<: *ip, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geoip/cn.mrs"}
   Cloudflare / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/cloudflare.mrs"}
 
-  # ========================
-  #  已注释（备用）
-  # ========================
-
-  # Block / Domain（DustinWin 源）
-  # Block / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/block.mrs"}
-
-  # Block / Domain（liandu2024 源）
-  # Block / Domain: {<<: *class, url: "https://gh-proxy.com/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Block.list"}
-
-  # Proxy / Domain（liandu2024 源，已改用 DustinWin 源）
-  # Proxy / Domain: {<<: *class, url: "https://gh-proxy.com/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list"}
-
-  # Nvidia / Domain
-  # Nvidia / Domain: {<<: *class, url: "https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Nvidia/Nvidia.list"}
-
-  # Crunchyroll / Domain
-  # Crunchyroll / Domain: {<<: *class, url: "https://gh-proxy.com/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Crunchyroll.list"}
-
-  # Reddit / Domain
-  # Reddit / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/reddit.mrs"}
